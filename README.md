@@ -72,6 +72,8 @@ The Appoint Doctor Project is a user-friendly web app for booking doctor appoint
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<a href="https://sensational-praline-cf3151.netlify.app/">Live Link</a>
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>

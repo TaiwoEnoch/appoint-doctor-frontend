@@ -108,7 +108,7 @@ Clone this repository to your desired folder:
 - Eslint
 - Stylint
 
-- Follow the step:
+- Follow the steps:
 
 ```sh
 cd appoint-doctor-front-end

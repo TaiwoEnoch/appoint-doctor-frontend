@@ -32,7 +32,7 @@
 
 # 📖 Appoint With A Doctor FrontEnd <a name="about-project"></a>
 
-The Appoint Doctor Project is a user-friendly web app for booking doctor appointments. It offers secure login using Devise-jwt and supports multiple user roles (patient, doctor, admin). Admins can add/delete doctors. Users can schedule/cancel appointments and view their appointment list. The app simplifies the process of finding and managing medical appointments online.
+The Appoint Doctor Project is a user-friendly web app for booking doctor appointments. It offers secure login using Devise jwt and supports multiple user roles (patient, doctor, admin). Admins can add/delete doctors. Users can schedule/cancel appointments and view their appointment list. The app simplifies the process of finding and managing medical appointments online.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -169,7 +169,7 @@ npm run test
 ## 🔭 Future Features <a name="future-features"></a>
 
 - **Add Payment type**
-- **List all Payment type**
+- **List all Payment types**
 - **Make Payment**
 - **List of all Transaction**
 - **Total Transaction amount**
@@ -178,7 +178,7 @@ npm run test
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[See Live on render](https://profound-heliotrope-436869.netlify.app/)
+[See Live on render]([https://profound-heliotrope-436869.netlify.app/](https://sensational-praline-cf3151.netlify.app/))
 
 ## 🪵 Link to Backend Repo <a name="key-features"></a>
 
@@ -191,7 +191,7 @@ npm run test
 - [Kanban board link:](https://github.com/users/Tracy-miranja/projects/8)
 - [Screenshot of the initial Stage](https://user-images.githubusercontent.com/114406879/256285403-e8a11387-6a54-4695-b302-6d08faaa85ea.png)
 
-- We are five members in our team:
+- There are five members in our team:
 
 - [Abdus Sattar](https://github.com/AbdusSattar-70)
 - [Taiwo Enoch](https://github.com/TaiwoEnoch)

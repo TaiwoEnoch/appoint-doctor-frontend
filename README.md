@@ -65,7 +65,7 @@ The Appoint Doctor Project is a user-friendly web app for booking doctor appoint
 - **List of all Users**
 - **List of all Doctors**
 - **List of all Patients**
-- **Make Appointment with Doctor**
+- **Make an Appointment with a Doctor**
 - **My Appointment**
 - **Cancel Appointment**
 - **My Appointment List**

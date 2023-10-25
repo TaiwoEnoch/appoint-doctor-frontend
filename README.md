@@ -62,7 +62,7 @@ The Appoint Doctor Project is a user-friendly web app for booking doctor appoint
 - **Authenticate User Login using Devise-jwt**
 - **Add Doctor**
 - **Delete Doctor**
-- **List of all Users**
+- **List of the all Users**
 - **List of all Doctors**
 - **List of all Patients**
 - **Make an Appointment with a Doctor**

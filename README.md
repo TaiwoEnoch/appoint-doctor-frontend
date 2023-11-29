@@ -168,7 +168,7 @@ npm run test
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Add Payment type**
+- **Add Payment type***
 - **List all Payment types**
 - **Make Payment**
 - **List of all Transaction**

@@ -41,7 +41,7 @@ The Appoint Doctor Project is a user-friendly web app for booking doctor appoint
 <details>
   <summary>Client</summary>
   <ul>
-    <li><p> <b>React-Redux </b> The primary programming language for the project.</p></li>
+    <li><p> <b>React/Redux </b> The primary programming language for the project.</p></li>
   </ul>
 </details>
 
